@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+
+
+}
+
+
+.header{
+    display: flex;
+   text-align: center;
+   background-image: url("../images/banner/banner3.png");
+   background-position: left;
+   background-size: cover;
+
+  
+   
+}
+.title-para{
+    padding-left: 70%;
+    padding-right: 10%;
+    padding-top: 20%;
+    padding-bottom: 20%;
+
+   
+
+}
+.btn-primary{
+    background:blue;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700px;
+    padding: 10px 25px;
+
+
+
+}
